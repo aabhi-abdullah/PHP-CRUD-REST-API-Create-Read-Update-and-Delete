@@ -28,6 +28,8 @@ Refer to the documentation for detailed examples and guidelines on using each CR
 Join our community forums for additional support and to connect with fellow developers.
 We're committed to continuously improving and maintaining this repository to ensure a smooth experience for developers like you. Happy coding!
 
-[ PHP-CRUD-REST-API-Create-Read-Update-and-Delete- ]
+Repository:
+
+PHP-CRUD-REST-API-Create-Read-Update-and-Delete
 
 Start simplifying your CRUD operations with our PHP CRUD REST API today!
